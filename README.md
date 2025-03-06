@@ -1,6 +1,6 @@
 # TraDuck - AI Translation Service
 
-![TraDuck Logo](https://raw.githubusercontent.com/yourusername/traduck/main/images/logo-traduck.png)
+![TraDuck Logo](https://traduck.com/images/logo-traduck.png)
 
 ### 🌐 [traduck.com](https://traduck.com) - High-Precision AI Translation Service
 
